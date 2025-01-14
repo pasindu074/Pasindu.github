@@ -1,1 +1,1 @@
-# Pasindu.github
+Quiz-Managment-System
